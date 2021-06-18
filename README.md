@@ -1,6 +1,6 @@
 ### How's it going, I'm Jaime! 👋
 
-- 🔭 I’m currently working on Victory Loans website.
+- 🔭 I’m currently working on a mortgage lending website.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with React.
